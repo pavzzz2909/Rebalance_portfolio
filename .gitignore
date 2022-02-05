@@ -1,0 +1,7 @@
+__pycache__/
+.git/
+data/
+my_files/
+otchet/
+
+config.py
